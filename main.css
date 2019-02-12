@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(https://tpc.googlesyndication.com/simgad/14869439948033579852?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmN37MZ_HpdkrpsYvxM0GUHGfeqMQ);
+
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+}
+
+/* body > div {
+  width: 200px;
+}
+div > div {
+  background: green;
+}
+div > div div {
+  width: 20%;
+  background: red;
+}
+div {
+  height: 100%;
+} */
+/* div {
+  border-radius: 50%;
+  border: 1px solid;
+  height: 20px;
+  width: 20px;
+  line-height: 0px;
+  text-align: center;
+}
+label {
+  width: 100px;
+  height: 100px;
+}
+p {
+  display: inline;
+  visibility: hidden;
+}
+[type="radio"] {
+  visibility: hidden;
+}
+
+input:checked + p::before {
+  visibility: hidden;
+} */
+/* [type="radio"] {
+  display: inline;
+  visibility: hidden;
+}
+p {
+  display: inline;
+} */
+
+/* div {
+  border: 1px solid;
+}
+input + div {
+  display: none;
+}
+input:checked + div {
+  display: block;
+} */
